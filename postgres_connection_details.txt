@@ -1,0 +1,16 @@
+PostgreSQL Connection Details
+
+Database Name: events_db
+Host: localhost
+Port: 5432
+User: postgres
+Password: securepassword
+
+JDBC URL: jdbc:postgresql://localhost:5432/events_db
+
+Table Name: user_events
+
+Notes:
+- Ensure PostgreSQL service is running before starting Spark.
+- Make sure the username and password match those in spark_streaming_to_postgres.py.
+- Default PostgreSQL port is 5432 unless changed.
