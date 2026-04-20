@@ -18,7 +18,7 @@ It demonstrates a complete **ETL (Extract, Transform, Load) pipeline**, where da
 
 ---
 
-## 🏗️ System Architecture
+## System Architecture
 
 ![System Architecture](system_architecture.png)
 
